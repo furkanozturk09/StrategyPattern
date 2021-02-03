@@ -1,4 +1,4 @@
-# StrategyPattern
+# Strategy-Pattern
 Software Design and Architecture Strategy Pattern
 
 In this example you are given;
